@@ -1,0 +1,14 @@
+C:\Visual Studio AOL\1\Zainab\bin\Debug\net8.0\Zainab.exe
+C:\Visual Studio AOL\1\Zainab\bin\Debug\net8.0\Zainab.deps.json
+C:\Visual Studio AOL\1\Zainab\bin\Debug\net8.0\Zainab.runtimeconfig.json
+C:\Visual Studio AOL\1\Zainab\bin\Debug\net8.0\Zainab.dll
+C:\Visual Studio AOL\1\Zainab\bin\Debug\net8.0\Zainab.pdb
+C:\Visual Studio AOL\1\Zainab\obj\Debug\net8.0\Zainab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio AOL\1\Zainab\obj\Debug\net8.0\Zainab.AssemblyInfoInputs.cache
+C:\Visual Studio AOL\1\Zainab\obj\Debug\net8.0\Zainab.AssemblyInfo.cs
+C:\Visual Studio AOL\1\Zainab\obj\Debug\net8.0\Zainab.csproj.CoreCompileInputs.cache
+C:\Visual Studio AOL\1\Zainab\obj\Debug\net8.0\Zainab.dll
+C:\Visual Studio AOL\1\Zainab\obj\Debug\net8.0\refint\Zainab.dll
+C:\Visual Studio AOL\1\Zainab\obj\Debug\net8.0\Zainab.pdb
+C:\Visual Studio AOL\1\Zainab\obj\Debug\net8.0\Zainab.genruntimeconfig.cache
+C:\Visual Studio AOL\1\Zainab\obj\Debug\net8.0\ref\Zainab.dll
